@@ -1,0 +1,42 @@
+body{color: #520707;
+    background-color: antiquewhite;
+	font-family: roboto;
+	text-align: left;}
+    .title{
+        color:#520707
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      li a {
+        display: block;
+        width: 60px;
+      }
+
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        width: 200px;
+        background-color: #520707;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+      
+      /* Change the link color on hover */
+      li a:hover {
+        background-color: #555;
+        color: white;
+      }
+
+      label{font-weight: bolder;}
+      button{font-weight: bolder;
+    background-color: #520707;
+    color: white;}
